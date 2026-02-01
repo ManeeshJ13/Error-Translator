@@ -1,6 +1,6 @@
 # Error Translator
 
-A simple tool that translates cryptic programming error messages into plain English with suggested fixes.
+A simple tool which helps convert complex errors into simple readable English form. It also provides with fixes
 
 ## Features
 - Translates common Python, JavaScript, and C errors
